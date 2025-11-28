@@ -1,0 +1,5 @@
+{
+  "name": "BuildRight Hardware",
+  "description": "A modern hardware store application featuring a product catalog, shopping cart, admin dashboard for inventory, and an AI-powered expert assistant to help customers find the right tools.",
+  "requestFramePermissions": []
+}
